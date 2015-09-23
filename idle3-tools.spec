@@ -7,7 +7,6 @@ Group:		Applications/System
 Source0:	http://downloads.sourceforge.net/idle3-tools/%{name}-%{version}.tgz
 # Source0-md5:	797d8775b80b7b7b67a1f8b0a5b41f30
 URL:		http://idle3-tools.sourceforge.net/
-BuildRequires:	kernel-headers
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
