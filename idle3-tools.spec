@@ -1,7 +1,7 @@
 Summary:	Manipulate the value of the idle3 timer found on recent WD Hard Disk Drives
 Name:		idle3-tools
 Version:	0.9.1
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Applications/System
 Source0:	http://downloads.sourceforge.net/idle3-tools/%{name}-%{version}.tgz
